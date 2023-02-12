@@ -1,10 +1,10 @@
-package inspiredTestingChallenge;
+//package inspiredTestingChallenge;
+//not needed right now
+//public class app {
 
-public class app {
-
-	public static void main(String[] args) {
+	//public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-	}
+	//}
 
-}
+//}
