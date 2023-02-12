@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="automationChallenge" target="17" />
+      <module name="automationChallenge" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
